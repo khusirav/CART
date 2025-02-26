@@ -1,5 +1,5 @@
 # CART
-Classification and regression tree python realisation
+Classification and regression tree python realization
 
 ## Installation (Windows)
 
